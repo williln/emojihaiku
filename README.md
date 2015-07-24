@@ -1,5 +1,5 @@
 # emojihaiku
-Emoji Haiku Twitter Bot! [@emoji_haiku](twitter.com/emoji_haiku]
+Emoji Haiku Twitter Bot! [@emoji_haiku](https://www.twitter.com/emoji_haiku)
 
 # Why Emoji Haiku? 
 
