@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/$USER/hello-world-bot/
+cd /home/$USER/emojihaiku/
 python3 bot.py
