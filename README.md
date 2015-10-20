@@ -10,6 +10,7 @@ I'm a Django Girls organizer, and we're pretty fond of emojis. I also wanted to 
 - Uses the [emoji](https://pypi.python.org/pypi/emoji) python library 
 - Uses [Tweepy](http://www.tweepy.org/) 
 - Inspired by Liza Daly's [I Luv Recipes](https://github.com/lizadaly/i_luv_recipes) bot. 
+- Emoji text from [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/). 
 
 # About Twitter bots 
 
