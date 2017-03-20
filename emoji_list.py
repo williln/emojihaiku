@@ -4,7 +4,7 @@ EMOJI_LIST = [
     ':3rd_place_medal:',
     ':AB_button_(blood_type):', 
     ':ATM_sign:',
-    ':A_button_(blood_type):,
+    ':A_button_(blood_type):',
     ':Afghanistan:',
     ':Albania:',
     ':Algeria:',
