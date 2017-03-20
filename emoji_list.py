@@ -250,7 +250,7 @@ EMOJI_LIST = [
 	":poodle:",
 	":paw_prints:",
 	":bouquet:",
-	":cherry_blosson:",
+	":cherry_blossom:",
 	":tulip:",
 	":four_leaf_clover:",
 	":rose:",
